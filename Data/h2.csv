@@ -1,0 +1,5 @@
+Parameter;Nilai;indeks;Kategori
+Throughput;1,1 Mb/s;2;Sedang
+Paket Loss;0,07%;4;Sangat Baik
+Delay;52,17 s;4;Samgat Baik
+Jitter;5,53 ms;3;Baik
