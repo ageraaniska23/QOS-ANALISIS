@@ -1,2 +1,2 @@
 # QOS-ANALISIS
- analisis Qualitu Of Serve menggunakan Python
+ analisis Quality Of Serve menggunakan Python
